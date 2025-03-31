@@ -9,7 +9,7 @@ O site Cat's Miau foi desenvolvido com o objetivo de compartilhar curiosidades f
 </li>
 
 <h3>Visão</h3>
-<li><p></p>Ser o principal site de referência para curiosidades e fotografias sobre gatos, conectando uma ampla comunidade de amantes de felinos em todo o mundo.</p></li>
+<li><ul></p>Ser o principal site de referência para curiosidades e fotografias sobre gatos, conectando uma ampla comunidade de amantes de felinos em todo o mundo.</ul></li>
 
 Valores
 Respeito pelos animais: Valorizamos a singularidade e o bem-estar dos gatos.
