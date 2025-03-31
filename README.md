@@ -35,7 +35,6 @@ O site Cat's Miau foi desenvolvido com o objetivo de compartilhar curiosidades f
 <li>Produção de Conteúdo</li>
 
 <li>Publicar semanalmente artigos sobre curiosidades felinas.</li>
-Site: <a>https://katsmiauu.blogspot.com/2025/03/cats-miau-lorem-ipsum-simply-dummy-text.html</a>
 
 <li>Atualizar a galeria fotográfica regularmente com imagens exclusivas e de alta qualidade.</li>
 
