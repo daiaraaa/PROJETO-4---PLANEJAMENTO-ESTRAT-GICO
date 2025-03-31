@@ -48,7 +48,5 @@ O site Cat's Miau foi desenvolvido com o objetivo de compartilhar curiosidades f
 
 <li>Desenvolver alianças com ONGs e instituições que cuidam de gatos em situação de vulnerabilidade.</li>
 
-<li>Feedback e Melhoria Contínua</li>
-
 <li>Coletar opiniões dos visitantes para aprimorar o conteúdo e a experiência no site.</li>
 
