@@ -46,15 +46,9 @@ O site Cat's Miau foi desenvolvido com o objetivo de compartilhar curiosidades f
 
 <li>Parcerias Estratégicas</li>
 
-<li>Firmar colaborações com fotógrafos especializados em animais.</li>
-
 <li>Desenvolver alianças com ONGs e instituições que cuidam de gatos em situação de vulnerabilidade.</li>
 
 <li>Feedback e Melhoria Contínua<li>
 
 <li>Coletar opiniões dos visitantes para aprimorar o conteúdo e a experiência no site.</li>
 
-<li>Usar ferramentas analíticas para entender melhor as preferências e necessidades da audiência.</li>
-
-Como Contribuir
-Adoraríamos ouvir sua opinião ou contar com sua contribuição para tornar o Cat's Miau ainda mais incrível. Sinta-se à vontade para entrar em contato ou seguir nossas redes sociais!
