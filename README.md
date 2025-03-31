@@ -29,7 +29,7 @@ O site Cat's Miau foi desenvolvido com o objetivo de compartilhar curiosidades f
 
 <li>Estabelecer parcerias com instituições que auxiliam gatos abandonados ou em situações de risco.</li>
 
-<li>Criar e lançar um aplicativo interativo com curiosidades, fotos e recursos para os amantes de gatos.</li>
+<li>Criar um ambiente interativo com curiosidades, fotos e recursos para os amantes de gatos.</li>
 
 <h3>Planos de Ação</h3>
 <li>Produção de Conteúdo</li>
