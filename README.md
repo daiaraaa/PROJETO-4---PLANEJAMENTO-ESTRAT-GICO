@@ -4,8 +4,9 @@ O site Cat's Miau foi desenvolvido com o objetivo de compartilhar curiosidades f
 
 <h3>Planejamento Estratégico</h3>
 <h2>Missão</h2>
-
-Promover o amor e a admiração pelos gatos, compartilhando curiosidades interessantes e disponibilizando uma galeria fotográfica que realça sua personalidade única.
+<li>
+<ul><p>Promover o amor e a admiração pelos gatos, compartilhando curiosidades interessantes e disponibilizando uma galeria fotográfica que realça sua personalidade única.</p></ul>
+</li>
 
 Visão
 Ser o principal site de referência para curiosidades e fotografias sobre gatos, conectando uma ampla comunidade de amantes de felinos em todo o mundo.
