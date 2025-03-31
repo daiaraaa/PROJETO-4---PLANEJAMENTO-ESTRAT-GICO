@@ -2,14 +2,14 @@
 <h2>Bem-vindo ao Cat's Miau!</h2>
 O site Cat's Miau foi desenvolvido com o objetivo de compartilhar curiosidades fascinantes sobre nossos adoráveis felinos. Além disso, você encontrará uma galeria de fotos encantadoras que capturam toda a essência carismática dos gatos, unindo informação e beleza em um só lugar.
 
-<h3>Planejamento Estratégico</h3>
-<h2>Missão</h2>
+<h2>Planejamento Estratégico</h2>
+<h3>Missão</h3>
 <li>
 <ul><p>Promover o amor e a admiração pelos gatos, compartilhando curiosidades interessantes e disponibilizando uma galeria fotográfica que realça sua personalidade única.</p></ul>
 </li>
 
-Visão
-Ser o principal site de referência para curiosidades e fotografias sobre gatos, conectando uma ampla comunidade de amantes de felinos em todo o mundo.
+<h3>Visão</h3>
+<li>Ser o principal site de referência para curiosidades e fotografias sobre gatos, conectando uma ampla comunidade de amantes de felinos em todo o mundo.</li>
 
 Valores
 Respeito pelos animais: Valorizamos a singularidade e o bem-estar dos gatos.
