@@ -50,6 +50,7 @@ O site Cat's Miau foi desenvolvido com o objetivo de compartilhar curiosidades f
 
 <li>Coletar opiniões dos visitantes para aprimorar o conteúdo e a experiência no site.</li>
 
-<h3>Equipe: <p>Daiara Barroso e Ana Larissa</p></h3>
+<h3>Equipe:</h3>
+<p>Daiara Barroso e Ana Larissa</p>
 
 
