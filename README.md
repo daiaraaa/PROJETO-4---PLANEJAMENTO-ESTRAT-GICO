@@ -11,8 +11,8 @@ O site Cat's Miau foi desenvolvido com o objetivo de compartilhar curiosidades f
 <h3>Visão</h3>
 <li><ul></p>Ser o principal site de referência para curiosidades e fotografias sobre gatos, conectando uma ampla comunidade de amantes de felinos em todo o mundo.</ul></li>
 
-Valores
-Respeito pelos animais: Valorizamos a singularidade e o bem-estar dos gatos.
+<h3>Valores</h3>
+<li>Respeito pelos animais: Valorizamos a singularidade e o bem-estar dos gatos.</li>
 
 Qualidade: Dedicação em oferecer conteúdo informativo e visualmente envolvente.
 
@@ -22,8 +22,8 @@ Comunidade: Construir um ambiente acolhedor e colaborativo para nossos usuários
 
 Educação: Incentivar práticas de cuidado e conscientização sobre gatos.
 
-Metas de Longo Prazo
-Atingir a marca de 1 milhão de visitantes mensais nos próximos cinco anos.
+<h3>Metas de Longo Prazo</h3>
+<li>Atingir a marca de 1 milhão de visitantes mensais nos próximos cinco anos.</li>
 
 Ampliar o conteúdo educativo sobre saúde, cuidados e bem-estar dos gatos.
 
@@ -31,8 +31,8 @@ Estabelecer parcerias com instituições que auxiliam gatos abandonados ou em si
 
 Criar e lançar um aplicativo interativo com curiosidades, fotos e recursos para os amantes de gatos.
 
-Planos de Ação
-Produção de Conteúdo
+<h3>Planos de Ação</h3>
+<li>Produção de Conteúdo</li>
 
 Publicar semanalmente artigos sobre curiosidades felinas.
 
